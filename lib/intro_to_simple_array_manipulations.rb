@@ -22,6 +22,6 @@ def shift_with_args(array)
   array.shift(2)
 end
 
-def using_contact(array, element)
+def using_concat(array, element)
   array.concat(element)
 end

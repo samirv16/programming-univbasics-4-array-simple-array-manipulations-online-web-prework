@@ -24,5 +24,4 @@ end
 
 def using_contact(array_one,array_two)
   array_two.concat
-  array_one.concat
 end
